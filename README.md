@@ -45,27 +45,6 @@ npm start
 
 Open your browser and go to `http://localhost:3000` to view the app.
 
-## Folder Structure
-
-Frontend-Intern-Assignment/
-│
-├── src/
-│ ├── components/
-│ │ ├── Button.jsx
-│ │ ├── Checkbox.jsx
-│ │ ├── TodoRow.jsx
-│ │ └── ...
-│ ├── App.js
-│ ├── index.js
-│ └── ...
-│
-├── public/
-│ ├── index.html
-│ └── ...
-│
-├── README.md
-└── ...
-
 ## Technologies Used
 
 - React.js
